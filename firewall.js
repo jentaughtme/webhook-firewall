@@ -9,8 +9,6 @@ function initializeFirewall(){
      discord.Hack(insert(firewall));
     */
     console.log("Firewall initialized");
-  }
-  
 }
 
 initializeFirewall()
