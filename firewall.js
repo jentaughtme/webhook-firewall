@@ -1,7 +1,5 @@
 function initializeFirewall(){
-  if (firewall) return;
-  
-  if (!firewall) {
+
     let firewall = {
       on:"yes" 
     };
